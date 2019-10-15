@@ -1,4 +1,4 @@
-require 'pry'
+#require 'pry'
 
 class User
 
@@ -34,6 +34,6 @@ class User
 
 end
 
-binding.pry
-puts "end of file"
+#binding.pry
+#puts "end of file"
 
